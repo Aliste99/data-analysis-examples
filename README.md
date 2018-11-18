@@ -22,3 +22,9 @@ www.youtube.com/watch?v=tFeqKb5Re1g
 
 Dataframe loc
 www.youtube.com/watch?v=4G-fjXTnPpE
+
+Различные способы конкатинации 
+https://www.youtube.com/watch?v=foKzGXNNSuc
+
+Составление запроса в базу данных для поиска людей по их отцу
+https://www.youtube.com/watch?v=YFbw0FVX8KI
